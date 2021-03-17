@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/D3/02_D3_exercises/Intro to Python - Easy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/02_D3_exercises/Intro to Python - Easy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M1/D3/03_D3_notes/exercises-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -83,6 +85,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python learning/exercises_strive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -108,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615975351904</updated>
       <workItem from="1615985422058" duration="1509000" />
+      <workItem from="1616017847070" duration="485000" />
     </task>
     <servers />
   </component>
