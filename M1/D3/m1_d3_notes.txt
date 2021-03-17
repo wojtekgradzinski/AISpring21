@@ -1,0 +1,22 @@
+# Notes
+-------------
+
+Python
+
+if 
+if 
+(check both ifs)
+
+if
+elif
+(check if first, then check elif later)
+
+
+
+-----------------------------------------------------------------
+
+
+# Questions
+-------------
+
+
