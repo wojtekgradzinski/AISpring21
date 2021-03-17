@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/01_D3_workbooks/Into to Python - part 5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D3/02_D3_exercises/Intro to Python - Easy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/02_D3_exercises/Intro to Python - Easy.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
