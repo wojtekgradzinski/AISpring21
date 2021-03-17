@@ -11,6 +11,8 @@ how_r_u("okay", r)
 
 
 
+# List and Dictionaries
+
 l = ['Gabriel', 'Pathi', "nurlan"]
 d = {'Gabriel': 1, 'camelia': 2, 'abishek': 2, 'sven': 2, 'Umidjan':0}
 d['Gabriel']
