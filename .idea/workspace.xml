@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/M1/D3/m1_d3_deepnote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D3/m1_d3_notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/D3/m1_d3_deepnote.py" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/D3_notes/m1_d3_deepnote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1/D3/m1_d3_notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D3/D3_notes/m1_d3_notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
