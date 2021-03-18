@@ -1,9 +1,10 @@
 # Counting words line by line.
 # Counting words in blakepoems.txt.
-with open("text-files/blakepoems.txt",) as fp:  # didnt know how to open something else
-    lines = (line.rstrip() for line in fp)
-    print(lines)
-    lines = list(line for line in lines if line)  # Non-blank lines in a list
+
+# with open("text-files/blakepoems.txt",) as fp:
+#     lines = (line.rstrip() for line in fp)
+#     print(lines)
+#     lines = list(line for line in lines if line)  # Non-blank lines in a list
 
 
 def word_counter(lines):
