@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AISpring21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/Into to Python - part 6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/Intro to Python - Additional Exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/Intro to Python - part 7.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/Shakespeare.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/backup/Shakespeare.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/backup/blakepoems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/backup/pc_writetest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/backup/pc_writtingtest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/blakepoems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/pc_writetest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/text-files/pc_writtingtest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +284,7 @@
       <workItem from="1616054725414" duration="1349000" />
       <workItem from="1616060971547" duration="1499000" />
       <workItem from="1616066641448" duration="130000" />
-      <workItem from="1616066794772" duration="1051000" />
+      <workItem from="1616066794772" duration="1604000" />
     </task>
     <servers />
   </component>
