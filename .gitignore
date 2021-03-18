@@ -1,12 +1,20 @@
 
 .idea/workspace.xml
-.idea/workspace.xml
+.idea
+.ipynb
 
 .git
 .svn
 .hg
 .DS_Store
 
-D3_review
+tips python 
+04_D3_peer_review
 D4_review
+
+M1/D3/D3_review
+01_D3_workbooks
+03_D3_notes
 M1/D4/d4_Strings_and_files/.ipynb_checkpoints/Intro to Python - part 7-checkpoint.ipynb
+M1/D3/.ipynb_checkpoints
+D4_backup_exercises
