@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39a43b7-0f96-4ebd-b80b-a477171c1464" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/100_Numpy_exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/100_Numpy_exercises_with_hint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/Code_Intro to numpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/Exercises 13 and 15 (★☆☆).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/Exercises 34 and 42 (★★☆).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M1/D6/d6_Numpy/Exercises 72 and 75 (★★★).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AISpring21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AISpring21.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/Into to Python - part 6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/M1/D4/d4_Strings_and_files/Into to Python - part 6.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,8 +26,19 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../python_learning_projects" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../python learning/exercises_strive.py" root0="SKIP_INSPECTION" />
@@ -44,14 +64,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/M1/D3/D3_notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.files_reading_external">
+  <component name="RunManager" selected="Python.numpy">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="python learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +142,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -173,28 +193,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largest_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AISpring21" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M1/D0_tips_python/HelloWorld" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M1/D0_tips_python/HelloWorld/largest_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="loop_counting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learning_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,6 +207,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python_learning_projects/loop_counting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AISpring21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M1/D0_tips_python/Strive Learning Codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M1/D0_tips_python/Strive Learning Codes/numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numpy" />
         <item itemvalue="Python.files_reading_external" />
         <item itemvalue="Python.loop_counting" />
         <item itemvalue="Python.01_exercises" />
         <item itemvalue="Python.exceptions" />
-        <item itemvalue="Python.largest_number" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +355,7 @@
       <workItem from="1616066641448" duration="130000" />
       <workItem from="1616066794772" duration="1604000" />
       <workItem from="1616141808646" duration="5724000" />
+      <workItem from="1616405630247" duration="969000" />
     </task>
     <servers />
   </component>
@@ -367,6 +388,7 @@
     <SUITE FILE_PATH="coverage/AISpring21$loop_counting.coverage" NAME="loop_counting Coverage Results" MODIFIED="1616146752126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python_learning_projects" />
     <SUITE FILE_PATH="coverage/AISpring21$2dlist_matrix.coverage" NAME="2dlist_matrix Coverage Results" MODIFIED="1616145296079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M1/D0_tips_python/HelloWorld" />
     <SUITE FILE_PATH="coverage/AISpring21$files_reading_external.coverage" NAME="files_reading_external Coverage Results" MODIFIED="1616153391532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M1/D0_tips_python/pythonProject" />
+    <SUITE FILE_PATH="coverage/AISpring21$numpy.coverage" NAME="numpy Coverage Results" MODIFIED="1616408992067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M1/D0_tips_python/Strive Learning Codes" />
     <SUITE FILE_PATH="coverage/AISpring21$while.coverage" NAME="while Coverage Results" MODIFIED="1616143172965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/M1/D0_tips_python/HelloWorld" />
   </component>
 </project>
