@@ -12,17 +12,19 @@
 
 3. How to get the absolute number of missings for each variable in pandas?
    df.isnull().sum()
-   df.isna().sum().sum()
+   df.isna().sum()
 
 4. How to get the percentage of missings for each variable in pandas?
    df.isnull().sum() \* 100 / len(df)
 
 5. How to drop rows with missing values?
    df.dropna()
-   df.dropna( axis=0, how='any')
+   df.dropna(axis=0) or df.dropna(axis="index")
+   <!-- df.dropna( axis=0, how='any') -->
 
 6. How to drop variables with missing values?
    df.dropna(axis = 1)
+   df.dropna(axis = 'columns')
 
 df.isna # Indicate missing values.
 df.notna # Indicate existing (non-missing) values.
@@ -33,10 +35,10 @@ Index.dropna # Drop missing indices.
 7. What is the univariate imputation method in sklearn?
    SimpleImputer(missing_values=np.nan, strategy='mean')
 
+SimpleImputer().fit_transform(df)
+
 8. What is the multivariate imputation method in sklearn?
    IterativeImputer(random_state=0)
-
-SimpleImputer().fit_transform(df)
 
 9. What is the best univariate imputation method to categorical variables? (Explain why)
 
