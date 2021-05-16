@@ -4,7 +4,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
-
+"""
+Linear regression is the most basic type of regression commonly used for
+predictive analysis. The idea is pretty simple: we have a dataset and we have
+features associated with it. Features should be chosen very cautiously
+as they determine how much our model will be able to make future predictions.
+We try to set the weight of these features, over many iterations, so that they best
+fit our dataset. In this particular code, I had used a CSGO dataset (ADR vs
+Rating). We try to best fit a line through dataset and estimate the parameters.
+"""
 #################
 
 # load and inspect the data
