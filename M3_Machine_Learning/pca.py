@@ -1,3 +1,10 @@
+"""
+Principal Component Analysis (PCA) is statistical procedure that uses an 
+orthogonal transformation to convert set observations of possibly correlated 
+variables into a set of values of linear uncorrelated variables called
+principal components. 
+"""
+
 # Import needed packages
 import numpy as np
 import matplotlib
@@ -56,16 +63,25 @@ pca = PCA(n_components=2)
 df_pca = df_iris.drop(["target"], axis=1)
 
 
-# project = pd.Dataframe(project)
+# fit transform dataframe
+project = pca.fit_transform(df_pca)
+
+y_variance = pca.explained_variance_ratio_
+
+project = pd.Dataframe(project)
+# project.head()
+
+
+# print(y_variance)
+
+
 # print(df_pca.shape)
 # print(project.shape)
 
 
-# Transformed dataframe
-project = pca.fit_transform(df_pca)
-
-# check the variance in each component
-plt.plot(np.cumsum(pca.explained_variance_ratio_))
+# plot it!
+sns.barplot(x=[i for i in range(len(y_variance))], y=y_variance)
+plt.title("PCA")
 
 
 # from sklearn.decomposition import PCA

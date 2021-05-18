@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from collections import Counter
 import matplotlib.pyplot as plt
-from sklearn.datasets.samples_generator import make_blobs
+from sklearn.datasets import make_blobs
 from sklearn.model_selection import train_test_split
 
 
